@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">myIntentApp</string>
+    <string name="data_received">yulva cute</string>
+    <string name="move_activity">tombol 1</string>
+    <string name="move_with_data">tombol 2</string>
+    <string name="dial_number">tombol 3</string>
+    <string name="this_is_moveactivity">yulva ulala</string>
+</resources>
